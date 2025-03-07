@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nayla Tri Anggita</h1>
-<h3 align="center">A programming student living in Indonesua</h3>
+<h3 align="center">A software engineering student living in Indonesia</h3>
 
 - 🌱 I’m currently learning **Frameworks, PHP, Kotlin**
 
