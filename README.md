@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Nayla, a software engineering student living in Indonesia.
+
+
 <!--
 **Naylaxa/Naylaxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
